@@ -1,0 +1,23 @@
+body {
+  background-color: darkcyan;
+}
+
+main {
+  width: 100%;
+  height: 10vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+span {
+  font-size: 50px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#hora, #min, #sec {
+  background-color: #fff;
+}/*# sourceMappingURL=styles.css.map */
